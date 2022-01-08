@@ -1,0 +1,9 @@
+1 - Leer el documento: appsdeveloperblog.com-Deploy a Spring Boot REST App as a WAR to Tomcat 10
+O la página web: appsdeveloperblog.com/deploy-a-spring-boot-rest-app-as-a-war-to-tomcat-10
+
+2- Ir a la carpeta de instalación de Tomcat 10.
+2.1- En la subcarpeta: bin
+2.1.1- Usar: ./catalina.sh run para observar el proceso de arranque y conversión de los war de webapps-javaee.
+Nota: También se puede observar si se arranca Tomcat 10 desde Netbeans
+3- El nombre del archivo War es el nombre de la ruta de inicio de la aplicación. 
+3.1-Puede interesar renombrar el archivo War
